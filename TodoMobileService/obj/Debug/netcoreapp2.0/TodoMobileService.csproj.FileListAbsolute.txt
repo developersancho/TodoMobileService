@@ -1,0 +1,11 @@
+C:\XamStudioProjects\TodoMobileService\TodoMobileService\obj\Debug\netcoreapp2.0\TodoMobileService.csproj.CoreCompileInputs.cache
+C:\XamStudioProjects\TodoMobileService\TodoMobileService\obj\Debug\netcoreapp2.0\TodoMobileService.AssemblyInfoInputs.cache
+C:\XamStudioProjects\TodoMobileService\TodoMobileService\obj\Debug\netcoreapp2.0\TodoMobileService.AssemblyInfo.cs
+C:\XamStudioProjects\TodoMobileService\TodoMobileService\bin\Debug\netcoreapp2.0\TodoMobileService.deps.json
+C:\XamStudioProjects\TodoMobileService\TodoMobileService\bin\Debug\netcoreapp2.0\TodoMobileService.runtimeconfig.json
+C:\XamStudioProjects\TodoMobileService\TodoMobileService\bin\Debug\netcoreapp2.0\TodoMobileService.runtimeconfig.dev.json
+C:\XamStudioProjects\TodoMobileService\TodoMobileService\bin\Debug\netcoreapp2.0\TodoMobileService.dll
+C:\XamStudioProjects\TodoMobileService\TodoMobileService\bin\Debug\netcoreapp2.0\TodoMobileService.pdb
+C:\XamStudioProjects\TodoMobileService\TodoMobileService\obj\Debug\netcoreapp2.0\TodoMobileService.dll
+C:\XamStudioProjects\TodoMobileService\TodoMobileService\obj\Debug\netcoreapp2.0\TodoMobileService.pdb
+C:\XamStudioProjects\TodoMobileService\TodoMobileService\obj\Debug\netcoreapp2.0\TodoMobileService.csprojResolveAssemblyReference.cache
